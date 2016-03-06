@@ -1,0 +1,114 @@
+16/11/2013 18:58:32 omtg2sql.util.Log <init>
+INFO: Starting log
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGSchema
+INFO: Reading xml document: omtg-schemas/test-conventional-rel-1-1_1-1.xml
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: cidade
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idCidade
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: nomeCidade
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codEstado
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createAttributeDomain
+INFO: domain: [AL, MG, PB]
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: telefone
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 10
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: 10
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: bairro
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idBairro
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship conventional
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: name: contem
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: class1Name: cidade
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1Max: 1
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1: (1,1)
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: class2Name: bairro
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2Max: 1
+16/11/2013 18:58:33 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2: (1,1)

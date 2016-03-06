@@ -1,0 +1,136 @@
+21/08/2010 23:12:52 omtg2sql.util.Log <init>
+INFO: Starting log
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGSchema
+INFO: Reading xml document: omtg-schemas/test-TIN.xml
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: X
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: TIN
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idCidade
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: nomeCidade
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codEstado
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createAttributeDomain
+INFO: domain: [AL, MG, PB]
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: telefone
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: 5
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Y
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: planar-subdivision
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idBairro
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: telefone
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: 5
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelation: near
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: 50
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: m
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatial relations: [near]
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: X
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: n
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,n)
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: Y
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 1
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+21/08/2010 23:12:53 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (1,n)

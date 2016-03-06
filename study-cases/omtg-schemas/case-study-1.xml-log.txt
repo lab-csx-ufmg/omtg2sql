@@ -1,0 +1,482 @@
+16/11/2013 19:13:41 omtg2sql.util.Log <init>
+INFO: Starting log
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGSchema
+INFO: Reading xml document: omtg-schemas/case-study-1.xml
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Region
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: conventional
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: code
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: name
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: RegionPoint
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: RegionBoundary
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: planar-subdivision
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Neighborhood
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: code
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: name
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Block
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: code
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: StreetCrossing
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: node
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: id
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: un-line
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: id
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: type
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Thoroughfare
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: conventional
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: id
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: name
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Building
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: id
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Residence
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Commerce
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: commerceType
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Industry
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: point
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: industryType
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: industrySize
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createAttributeDomain
+INFO: domain: [small, medium, large]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship conventional
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: name: belongs
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: class1Name: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality1: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: class2Name: Thoroughfare
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2Max: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalRelationship
+INFO: cardinality2: (1,1)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelations: [contains, touch]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: RegionBoundary
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,1)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: StreetCrossing
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelations: [overlapbdyintersect, overlapbdydisjoint, inside, coveredby]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: Neighborhood
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelations: [contains, covers]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: Neighborhood
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,1)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: Block
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 0
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (0,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelations: [contains]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: Block
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,1)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: Building
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship topological
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: spatialRelations: [near]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: distance: 50
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: unit: m
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class1Name: Building
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality1: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: class2Name: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Min: 1
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2Max: n
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGTopologicalRelationship
+INFO: cardinality2: (1,n)
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship spatial-aggregation
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGSpatialAggregation
+INFO: class1Name: RegionBoundary
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGSpatialAggregation
+INFO: class2Name: Neighborhood
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship network
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGNetwork
+INFO: networkName: StreetNetwork
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGNetwork
+INFO: class1Name: StreetCrossing
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGNetwork
+INFO: class2Name: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship generalization
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: superclass: Building
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: participation: total
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: disjointness: disjoint
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createSubclasses
+INFO: subclasses: [Residence, Commerce, Industry]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship conceptual-generalization
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConceptualGeneralization
+INFO: superclass: Region
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConceptualGeneralization
+INFO: scaleShape: shape
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGConceptualGeneralization
+INFO: disjointness: overlapping
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createSubclasses
+INFO: subclasses: [RegionPoint, RegionBoundary]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: user restriction
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: class1Name: StreetSegment
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: spatialRelations: [overlapbdyintersect, overlapbdydisjoint, inside, coveredby]
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: distance: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: unit: null
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: canOccur: false
+16/11/2013 19:13:42 omtg2sql.util.XMLParser createOMTGUserRestriction
+INFO: class2Name: Block

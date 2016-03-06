@@ -1,0 +1,84 @@
+21/08/2010 22:34:43 omtg2sql.util.Log <init>
+INFO: Starting log
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGSchema
+INFO: Reading xml document: omtg-schemas/test-tesselation.xml
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: X
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: tesselation
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idCidade
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: nomeCidade
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codEstado
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 50
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createAttributeDomain
+INFO: domain: [AL, MG, PB]
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: Y
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: tesselation
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idBairro
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship spatial-aggregation
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGSpatialAggregation
+INFO: class1Name: X
+21/08/2010 22:34:44 omtg2sql.util.XMLParser createOMTGSpatialAggregation
+INFO: class2Name: Y

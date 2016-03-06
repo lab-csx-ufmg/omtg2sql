@@ -1,0 +1,126 @@
+22/08/2010 21:19:12 omtg2sql.util.Log <init>
+INFO: Starting log
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGSchema
+INFO: Reading xml document: omtg-schemas/test-generalization-total-overlapping.xml
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: X
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: idCidade
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: number
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 5
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: 0
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: nomeCidade
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codEstado
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: A
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codA
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: B
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codB
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: className: C
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGClass
+INFO: classType: polygon
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeName: codC
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeType: varchar2
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeLength: 100
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeScale: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeKey: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeNotNull: true
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeDefault: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGAttribute
+INFO: attributeSize: null
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGRelationships
+INFO: relationship generalization
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: superclass: X
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: participation: total
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createOMTGConventionalGeneralization
+INFO: disjointness: overlapping
+22/08/2010 21:19:13 omtg2sql.util.XMLParser createSubclasses
+INFO: subclasses: [A, B, C]

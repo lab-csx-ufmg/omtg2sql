@@ -1,0 +1,2 @@
+21/08/2010 22:05:16 omtg2sql.util.Log <init>
+INFO: Starting log
